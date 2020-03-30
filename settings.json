@@ -1,0 +1,9 @@
+{
+  "python3_interpreter":"C:\\PATH_TO_PYTHON3_EXECUTABLE",
+  "app_location":"C:\\PATH TO app.py",
+  "output_folder":"C:\\PATH_TO_OUTPUT_FOLDER",
+  "folder_to_backup":"C:\\PATH_TO_BACKUP_FOLDER_NAME",
+  "ftp_server":"", 
+  "ftp_username":"",
+  "ftp_password":""
+}
